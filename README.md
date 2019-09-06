@@ -1,5 +1,1 @@
-这是一个菜鸡存放蟒蛇练习题代码的地方
-
-题练习网址的为https://checkio.org
-
-请多多指教
+https://checkio.org
