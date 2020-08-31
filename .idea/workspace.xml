@@ -19,12 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2a12da8-5f31-4398-82d5-38efbb708018" name="Default Changelist" comment="配置环境">
-      <change afterPath="$PROJECT_DIR$/Home 71%/Sort Array by Element Frequency.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Checkio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Checkio.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="c2a12da8-5f31-4398-82d5-38efbb708018" name="Default Changelist" comment="[Solution] 新增题解" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +75,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -168,7 +163,7 @@
       <workItem from="1557140942649" duration="1260000" />
       <workItem from="1557151802196" duration="684000" />
       <workItem from="1557188617094" duration="1622000" />
-      <workItem from="1598842121730" duration="5656000" />
+      <workItem from="1598842121730" duration="5949000" />
     </task>
     <task id="LOCAL-00001" summary="配置环境">
       <created>1598842401420</created>
@@ -177,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598842401420</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[Solution] 新增题解">
+      <created>1598855636507</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598855636507</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -206,7 +208,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="配置环境" />
-    <option name="LAST_COMMIT_MESSAGE" value="配置环境" />
+    <MESSAGE value="[Solution] 新增题解" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Solution] 新增题解" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="150" width="1092" height="890" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598842347738">
@@ -217,22 +220,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="362" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598842160791" />
-    <state width="1877" height="269" key="GridCell.Tab.0.bottom" timestamp="1598855332707">
+    <state width="1877" height="269" key="GridCell.Tab.0.bottom" timestamp="1598855505401">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598855332707" />
-    <state width="1877" height="269" key="GridCell.Tab.0.center" timestamp="1598855332707">
+    <state width="1877" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598855505401" />
+    <state width="1877" height="269" key="GridCell.Tab.0.center" timestamp="1598855505401">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="269" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598855332707" />
-    <state width="1877" height="269" key="GridCell.Tab.0.left" timestamp="1598855332707">
+    <state width="1877" height="269" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598855505401" />
+    <state width="1877" height="269" key="GridCell.Tab.0.left" timestamp="1598855505401">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="269" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598855332707" />
-    <state width="1877" height="269" key="GridCell.Tab.0.right" timestamp="1598855332707">
+    <state width="1877" height="269" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598855505401" />
+    <state width="1877" height="269" key="GridCell.Tab.0.right" timestamp="1598855505401">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="269" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598855332707" />
+    <state width="1877" height="269" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598855505401" />
     <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1598855324096">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
@@ -249,10 +252,15 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598855324096" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1598843251943">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-1459" y="164" key="SettingsEditor" timestamp="1598855711402">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
+    <state x="-1459" y="164" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598855711402" />
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598843251943" />
+    <state x="-1368" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598855657184">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598855657184" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CheckIO$Sort_Array_by_Element_Frequency.coverage" NAME="Sort Array by Element Frequency Coverage Results" MODIFIED="1598855332707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Home 71%" />
