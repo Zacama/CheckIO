@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2a12da8-5f31-4398-82d5-38efbb708018" name="Default Changelist" comment="[Solution] 新增题解" />
+    <list default="true" id="c2a12da8-5f31-4398-82d5-38efbb708018" name="Default Changelist" comment="[Fix] MD文件BUG修复">
+      <change afterPath="$PROJECT_DIR$/Home/Date and Time Converter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home/Morse Decoder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home/Split List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +91,7 @@
       <recent name="C:\Users\xkz\PycharmProjects\CheckIO\Home" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Sort Array by Element Frequency">
+  <component name="RunManager" selected="Python.Morse Decoder">
     <configuration name="CheckIO" type="PythonConfigurationType" factoryName="Python">
       <module name="Checkio" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,6 +106,50 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Date and Time Converter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Checkio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Home" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Home/Date and Time Converter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Morse Decoder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Checkio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Home" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Home/Morse Decoder.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,12 +180,40 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Split List" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Checkio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Home" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Home/Split List.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.CheckIO" />
       <item itemvalue="Python.Sort Array by Element Frequency" />
+      <item itemvalue="Python.Split List" />
+      <item itemvalue="Python.Date and Time Converter" />
+      <item itemvalue="Python.Morse Decoder" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Morse Decoder" />
+        <item itemvalue="Python.Date and Time Converter" />
+        <item itemvalue="Python.Split List" />
         <item itemvalue="Python.Sort Array by Element Frequency" />
       </list>
     </recent_temporary>
@@ -163,7 +240,8 @@
       <workItem from="1557140942649" duration="1260000" />
       <workItem from="1557151802196" duration="684000" />
       <workItem from="1557188617094" duration="1622000" />
-      <workItem from="1598842121730" duration="5949000" />
+      <workItem from="1598842121730" duration="8286000" />
+      <workItem from="1598858309611" duration="2121000" />
     </task>
     <task id="LOCAL-00001" summary="配置环境">
       <created>1598842401420</created>
@@ -179,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598855636507</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="[Fix] MD文件BUG修复">
+      <created>1598855804340</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598855804340</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -204,12 +289,14 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="配置环境" />
     <MESSAGE value="[Solution] 新增题解" />
-    <option name="LAST_COMMIT_MESSAGE" value="[Solution] 新增题解" />
+    <MESSAGE value="[Fix] MD文件BUG修复" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Fix] MD文件BUG修复" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="150" width="1092" height="890" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598842347738">
@@ -220,49 +307,52 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="362" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598842160791" />
-    <state width="1877" height="269" key="GridCell.Tab.0.bottom" timestamp="1598855505401">
+    <state width="1877" height="269" key="GridCell.Tab.0.bottom" timestamp="1598859989079">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598855505401" />
-    <state width="1877" height="269" key="GridCell.Tab.0.center" timestamp="1598855505401">
+    <state width="1877" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598859989079" />
+    <state width="1877" height="269" key="GridCell.Tab.0.center" timestamp="1598859989079">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="269" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598855505401" />
-    <state width="1877" height="269" key="GridCell.Tab.0.left" timestamp="1598855505401">
+    <state width="1877" height="269" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598859989079" />
+    <state width="1877" height="269" key="GridCell.Tab.0.left" timestamp="1598859989079">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="269" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598855505401" />
-    <state width="1877" height="269" key="GridCell.Tab.0.right" timestamp="1598855505401">
+    <state width="1877" height="269" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598859989079" />
+    <state width="1877" height="269" key="GridCell.Tab.0.right" timestamp="1598859989079">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="269" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598855505401" />
-    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1598855324096">
+    <state width="1877" height="269" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598859989079" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1598858298310">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598855324096" />
-    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1598855324096">
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598858298310" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1598858298309">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598855324096" />
-    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1598855324096">
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598858298309" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1598858298309">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598855324096" />
-    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1598855324096">
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598858298309" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1598858298309">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598855324096" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598858298309" />
     <state x="-1459" y="164" key="SettingsEditor" timestamp="1598855711402">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1459" y="164" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598855711402" />
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598843251943" />
-    <state x="-1368" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598855657184">
+    <state x="-1368" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598855809362">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1368" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598855657184" />
+    <state x="-1368" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598855809362" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CheckIO$Sort_Array_by_Element_Frequency.coverage" NAME="Sort Array by Element Frequency Coverage Results" MODIFIED="1598855332707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Home 71%" />
+    <SUITE FILE_PATH="coverage/CheckIO$Split_List.coverage" NAME="Split List Coverage Results" MODIFIED="1598856736988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Home" />
+    <SUITE FILE_PATH="coverage/CheckIO$Morse_Decoder.coverage" NAME="Morse Decoder Coverage Results" MODIFIED="1598859989069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Home" />
+    <SUITE FILE_PATH="coverage/CheckIO$Date_and_Time_Converter.coverage" NAME="Date and Time Converter Coverage Results" MODIFIED="1598858971336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Home" />
   </component>
 </project>
