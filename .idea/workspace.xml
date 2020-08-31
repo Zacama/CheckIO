@@ -19,11 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2a12da8-5f31-4398-82d5-38efbb708018" name="Default Changelist" comment="">
+    <list default="true" id="c2a12da8-5f31-4398-82d5-38efbb708018" name="Default Changelist" comment="配置环境">
+      <change afterPath="$PROJECT_DIR$/Home 71%/Sort Array by Element Frequency.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Checkio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Checkio.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,18 +66,21 @@
   </component>
   <component name="JupyterTrust" id="88e9a122-91bb-4884-824b-f3b787096c70" />
   <component name="ProjectId" id="1gqVTWhsRpISd5aPwMur5f1rLF8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -88,7 +91,7 @@
       <recent name="C:\Users\xkz\PycharmProjects\CheckIO\Home" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Sort Array by Element Frequency">
     <configuration name="CheckIO" type="PythonConfigurationType" factoryName="Python">
       <module name="Checkio" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,6 +114,37 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Sort Array by Element Frequency" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Checkio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Home 71%" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Home 71%/Sort Array by Element Frequency.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.CheckIO" />
+      <item itemvalue="Python.Sort Array by Element Frequency" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Sort Array by Element Frequency" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -134,8 +168,16 @@
       <workItem from="1557140942649" duration="1260000" />
       <workItem from="1557151802196" duration="684000" />
       <workItem from="1557188617094" duration="1622000" />
-      <workItem from="1598842121730" duration="227000" />
+      <workItem from="1598842121730" duration="5656000" />
     </task>
+    <task id="LOCAL-00001" summary="配置环境">
+      <created>1598842401420</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598842401420</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -162,7 +204,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="配置环境" />
+    <option name="LAST_COMMIT_MESSAGE" value="配置环境" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="150" width="1092" height="890" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598842347738">
@@ -173,9 +217,44 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="362" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598842160791" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1598842333495">
+    <state width="1877" height="269" key="GridCell.Tab.0.bottom" timestamp="1598855332707">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598855332707" />
+    <state width="1877" height="269" key="GridCell.Tab.0.center" timestamp="1598855332707">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="269" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598855332707" />
+    <state width="1877" height="269" key="GridCell.Tab.0.left" timestamp="1598855332707">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="269" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598855332707" />
+    <state width="1877" height="269" key="GridCell.Tab.0.right" timestamp="1598855332707">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="269" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598855332707" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1598855324096">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598855324096" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1598855324096">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598855324096" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1598855324096">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598855324096" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1598855324096">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598855324096" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1598843251943">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598842333495" />
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598843251943" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CheckIO$Sort_Array_by_Element_Frequency.coverage" NAME="Sort Array by Element Frequency Coverage Results" MODIFIED="1598855332707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Home 71%" />
   </component>
 </project>
