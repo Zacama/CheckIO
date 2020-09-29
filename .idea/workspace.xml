@@ -19,10 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2a12da8-5f31-4398-82d5-38efbb708018" name="Default Changelist" comment="[Fix] MD文件BUG修复">
-      <change afterPath="$PROJECT_DIR$/Home/Date and Time Converter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home/Morse Decoder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home/Split List.py" afterDir="false" />
+    <list default="true" id="c2a12da8-5f31-4398-82d5-38efbb708018" name="Default Changelist" comment="[Solutions] 增加题解">
+      <change afterPath="$PROJECT_DIR$/Elementary/Is Even.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/O'REILLY/Chunk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/O'REILLY/How to Find Friends.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/O'REILLY/Index Power.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/O'REILLY/Majority.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/O'REILLY/Remove All After.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/O'REILLY/Replace Last.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,18 +84,18 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Xander.xue\PycharmProjects\CheckIO\Elementary" />
       <recent name="C:\Users\xkz\PycharmProjects\CheckIO\Unpack 100%" />
       <recent name="C:\Users\xkz\PycharmProjects\CheckIO\Elementary 100%" />
       <recent name="C:\Users\xkz\PycharmProjects\CheckIO\Home 71%" />
       <recent name="C:\Users\xkz\PycharmProjects\CheckIO\SENDGRID 15%" />
-      <recent name="C:\Users\xkz\PycharmProjects\CheckIO\Home" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Morse Decoder">
+  <component name="RunManager" selected="Python.Chunk">
     <configuration name="CheckIO" type="PythonConfigurationType" factoryName="Python">
       <module name="Checkio" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Date and Time Converter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Chunk" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Checkio" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,12 +126,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Home" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/O'REILLY" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Home/Date and Time Converter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/O'REILLY/Chunk.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Morse Decoder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Index Power" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Checkio" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,12 +148,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Home" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/O'REILLY" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Home/Morse Decoder.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/O'REILLY/Index Power.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,7 +162,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Sort Array by Element Frequency" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Majority" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Checkio" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -166,12 +170,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Home 71%" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/O'REILLY" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Home 71%/Sort Array by Element Frequency.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/O'REILLY/Majority.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,7 +184,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Split List" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Remove All After" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Checkio" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -188,12 +192,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Home" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/O'REILLY" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Home/Split List.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/O'REILLY/Remove All After.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Replace Last" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Checkio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/O'REILLY" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/O'REILLY/Replace Last.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,17 +230,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.CheckIO" />
-      <item itemvalue="Python.Sort Array by Element Frequency" />
-      <item itemvalue="Python.Split List" />
-      <item itemvalue="Python.Date and Time Converter" />
-      <item itemvalue="Python.Morse Decoder" />
+      <item itemvalue="Python.Replace Last" />
+      <item itemvalue="Python.Index Power" />
+      <item itemvalue="Python.Majority" />
+      <item itemvalue="Python.Remove All After" />
+      <item itemvalue="Python.Chunk" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Morse Decoder" />
-        <item itemvalue="Python.Date and Time Converter" />
-        <item itemvalue="Python.Split List" />
-        <item itemvalue="Python.Sort Array by Element Frequency" />
+        <item itemvalue="Python.Chunk" />
+        <item itemvalue="Python.Remove All After" />
+        <item itemvalue="Python.Majority" />
+        <item itemvalue="Python.Index Power" />
+        <item itemvalue="Python.Replace Last" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +269,25 @@
       <workItem from="1557151802196" duration="684000" />
       <workItem from="1557188617094" duration="1622000" />
       <workItem from="1598842121730" duration="8286000" />
-      <workItem from="1598858309611" duration="2121000" />
+      <workItem from="1598858309611" duration="2155000" />
+      <workItem from="1598860516595" duration="15000" />
+      <workItem from="1598922067587" duration="1831000" />
+      <workItem from="1598943133911" duration="439000" />
+      <workItem from="1599015129180" duration="1482000" />
+      <workItem from="1599097115364" duration="3000" />
+      <workItem from="1599109553985" duration="265000" />
+      <workItem from="1599109836076" duration="7000" />
+      <workItem from="1599118193898" duration="3461000" />
+      <workItem from="1599179836999" duration="3445000" />
+      <workItem from="1599448037744" duration="5000" />
+      <workItem from="1600071293835" duration="48000" />
+      <workItem from="1600160397524" duration="1394000" />
+      <workItem from="1600312429384" duration="1000000" />
+      <workItem from="1600410592541" duration="685000" />
+      <workItem from="1600411832299" duration="2688000" />
+      <workItem from="1600996505123" duration="1717000" />
+      <workItem from="1601003669851" duration="437000" />
+      <workItem from="1601340991262" duration="6647000" />
     </task>
     <task id="LOCAL-00001" summary="配置环境">
       <created>1598842401420</created>
@@ -264,17 +310,15 @@
       <option name="project" value="LOCAL" />
       <updated>1598855804340</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="[Solutions] 增加题解">
+      <created>1598860452430</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598860452430</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
@@ -296,63 +340,118 @@
     <MESSAGE value="配置环境" />
     <MESSAGE value="[Solution] 新增题解" />
     <MESSAGE value="[Fix] MD文件BUG修复" />
-    <option name="LAST_COMMIT_MESSAGE" value="[Fix] MD文件BUG修复" />
+    <MESSAGE value="[Solutions] 增加题解" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Solutions] 增加题解" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="150" width="1092" height="890" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598842347738">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="150" width="1092" height="890" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598842347738" />
-    <state x="740" y="362" key="FileChooserDialogImpl" timestamp="1598842160791">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-1280" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600410612460">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
+    <state x="-1280" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1080.1880/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1600410612460" />
+    <state x="416" y="654" key="FileChooserDialogImpl" timestamp="1601004106129">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state x="416" y="654" key="FileChooserDialogImpl/0.0.1080.1880/-1920.0.1920.1040@0.0.1080.1880" timestamp="1601004106129" />
+    <state x="-1180" y="362" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598860530148" />
     <state x="740" y="362" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598842160791" />
-    <state width="1877" height="269" key="GridCell.Tab.0.bottom" timestamp="1598859989079">
+    <state x="740" y="402" key="FileChooserDialogImpl/1920.40.1080.1880/0.40.1920.1040@0.40.1920.1040" timestamp="1599109841297" />
+    <state width="914" height="266" key="GridCell.Tab.0.bottom" timestamp="1601347325977">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598859989079" />
-    <state width="1877" height="269" key="GridCell.Tab.0.center" timestamp="1598859989079">
+    <state width="914" height="266" key="GridCell.Tab.0.bottom/0.0.1080.1880/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601347325977" />
+    <state width="1037" height="532" key="GridCell.Tab.0.bottom/0.0.1080.1880/-1920.0.1920.1040@0.0.1080.1880" timestamp="1600316330125" />
+    <state width="1877" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598860466951" />
+    <state width="1877" height="268" key="GridCell.Tab.0.bottom/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1599187925841" />
+    <state width="914" height="268" key="GridCell.Tab.0.bottom/1920.40.1080.1880/0.40.1920.1040@0.40.1920.1040" timestamp="1599181213338" />
+    <state width="1037" height="534" key="GridCell.Tab.0.bottom/1920.40.1080.1880/0.40.1920.1040@1920.40.1080.1880" timestamp="1599124547542" />
+    <state width="914" height="266" key="GridCell.Tab.0.center" timestamp="1601347325977">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="269" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598859989079" />
-    <state width="1877" height="269" key="GridCell.Tab.0.left" timestamp="1598859989079">
+    <state width="914" height="266" key="GridCell.Tab.0.center/0.0.1080.1880/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601347325977" />
+    <state width="1037" height="532" key="GridCell.Tab.0.center/0.0.1080.1880/-1920.0.1920.1040@0.0.1080.1880" timestamp="1600316330125" />
+    <state width="1877" height="269" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598860466951" />
+    <state width="1877" height="268" key="GridCell.Tab.0.center/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1599187925841" />
+    <state width="914" height="268" key="GridCell.Tab.0.center/1920.40.1080.1880/0.40.1920.1040@0.40.1920.1040" timestamp="1599181213338" />
+    <state width="1037" height="534" key="GridCell.Tab.0.center/1920.40.1080.1880/0.40.1920.1040@1920.40.1080.1880" timestamp="1599124547542" />
+    <state width="914" height="266" key="GridCell.Tab.0.left" timestamp="1601347325977">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="269" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598859989079" />
-    <state width="1877" height="269" key="GridCell.Tab.0.right" timestamp="1598859989079">
+    <state width="914" height="266" key="GridCell.Tab.0.left/0.0.1080.1880/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601347325977" />
+    <state width="1037" height="532" key="GridCell.Tab.0.left/0.0.1080.1880/-1920.0.1920.1040@0.0.1080.1880" timestamp="1600316330125" />
+    <state width="1877" height="269" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598860466951" />
+    <state width="1877" height="268" key="GridCell.Tab.0.left/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1599187925841" />
+    <state width="914" height="268" key="GridCell.Tab.0.left/1920.40.1080.1880/0.40.1920.1040@0.40.1920.1040" timestamp="1599181213336" />
+    <state width="1037" height="534" key="GridCell.Tab.0.left/1920.40.1080.1880/0.40.1920.1040@1920.40.1080.1880" timestamp="1599124547542" />
+    <state width="914" height="266" key="GridCell.Tab.0.right" timestamp="1601347325977">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="269" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598859989079" />
-    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1598858298310">
+    <state width="914" height="266" key="GridCell.Tab.0.right/0.0.1080.1880/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601347325977" />
+    <state width="1037" height="532" key="GridCell.Tab.0.right/0.0.1080.1880/-1920.0.1920.1040@0.0.1080.1880" timestamp="1600316330125" />
+    <state width="1877" height="269" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598860466951" />
+    <state width="1877" height="268" key="GridCell.Tab.0.right/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1599187925841" />
+    <state width="914" height="268" key="GridCell.Tab.0.right/1920.40.1080.1880/0.40.1920.1040@0.40.1920.1040" timestamp="1599181213338" />
+    <state width="1037" height="534" key="GridCell.Tab.0.right/1920.40.1080.1880/0.40.1920.1040@1920.40.1080.1880" timestamp="1599124547542" />
+    <state width="914" height="346" key="GridCell.Tab.1.bottom" timestamp="1601343213761">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
+    <state width="914" height="346" key="GridCell.Tab.1.bottom/0.0.1080.1880/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601343213761" />
     <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598858298310" />
-    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1598858298309">
+    <state width="914" height="346" key="GridCell.Tab.1.center" timestamp="1601343213761">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
+    <state width="914" height="346" key="GridCell.Tab.1.center/0.0.1080.1880/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601343213761" />
     <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598858298309" />
-    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1598858298309">
+    <state width="914" height="346" key="GridCell.Tab.1.left" timestamp="1601343213761">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
+    <state width="914" height="346" key="GridCell.Tab.1.left/0.0.1080.1880/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601343213761" />
     <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598858298309" />
-    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1598858298309">
+    <state width="914" height="346" key="GridCell.Tab.1.right" timestamp="1601343213761">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
+    <state width="914" height="346" key="GridCell.Tab.1.right/0.0.1080.1880/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601343213761" />
     <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598858298309" />
-    <state x="-1459" y="164" key="SettingsEditor" timestamp="1598855711402">
+    <state x="-1774" y="164" key="SettingsEditor" timestamp="1601343024394">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
+    <state x="-1774" y="164" key="SettingsEditor/0.0.1080.1880/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601343024394" />
+    <state x="82" y="296" key="SettingsEditor/0.0.1080.1880/-1920.0.1920.1040@0.0.1080.1880" timestamp="1600071328677" />
     <state x="-1459" y="164" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598855711402" />
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598843251943" />
-    <state x="-1368" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598855809362">
+    <state x="-1368" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598860457475">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1368" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598855809362" />
+    <state x="-1368" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598860457475" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CheckIO$test.coverage" NAME="test Coverage Results" MODIFIED="1600414238099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CheckIO$Backward_String.coverage" NAME="Backward String Coverage Results" MODIFIED="1599119592883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Elementary" />
     <SUITE FILE_PATH="coverage/CheckIO$Sort_Array_by_Element_Frequency.coverage" NAME="Sort Array by Element Frequency Coverage Results" MODIFIED="1598855332707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Home 71%" />
+    <SUITE FILE_PATH="coverage/CheckIO$Index_Power.coverage" NAME="Index Power Coverage Results" MODIFIED="1601344519857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/O'REILLY" />
     <SUITE FILE_PATH="coverage/CheckIO$Split_List.coverage" NAME="Split List Coverage Results" MODIFIED="1598856736988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Home" />
-    <SUITE FILE_PATH="coverage/CheckIO$Morse_Decoder.coverage" NAME="Morse Decoder Coverage Results" MODIFIED="1598859989069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Home" />
+    <SUITE FILE_PATH="coverage/CheckIO$Between_Markers_Simplified_.coverage" NAME="Between Markers(Simplified) Coverage Results" MODIFIED="1601342984630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Elementary" />
+    <SUITE FILE_PATH="coverage/CheckIO$Replace_Last.coverage" NAME="Replace Last Coverage Results" MODIFIED="1601344365048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/O'REILLY" />
+    <SUITE FILE_PATH="coverage/CheckIO$Multiply__Intro_.coverage" NAME="Multiply (Intro) Coverage Results" MODIFIED="1599118450392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Elementary" />
+    <SUITE FILE_PATH="coverage/CheckIO$Number_Length.coverage" NAME="Number Length Coverage Results" MODIFIED="1599118599369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Elementary" />
+    <SUITE FILE_PATH="coverage/CheckIO$First_Word__simplified_.coverage" NAME="First Word (simplified) Coverage Results" MODIFIED="1599118533734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Elementary" />
+    <SUITE FILE_PATH="coverage/CheckIO$Nearest_Value.coverage" NAME="Nearest Value Coverage Results" MODIFIED="1601342709758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Elementary" />
+    <SUITE FILE_PATH="coverage/CheckIO$Max_Digit.coverage" NAME="Max Digit Coverage Results" MODIFIED="1599122412110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Elementary" />
+    <SUITE FILE_PATH="coverage/CheckIO$Split_Pairs.coverage" NAME="Split Pairs Coverage Results" MODIFIED="1599181213285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Elementary" />
+    <SUITE FILE_PATH="coverage/CheckIO$End_Zeros.coverage" NAME="End Zeros Coverage Results" MODIFIED="1599119328137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Elementary" />
+    <SUITE FILE_PATH="coverage/CheckIO$Acceptable_Password_I.coverage" NAME="Acceptable Password I Coverage Results" MODIFIED="1599118537206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Elementary" />
+    <SUITE FILE_PATH="coverage/CheckIO$Morse_Decoder.coverage" NAME="Morse Decoder Coverage Results" MODIFIED="1599118322016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Home" />
+    <SUITE FILE_PATH="coverage/CheckIO$Is_Even.coverage" NAME="Is Even Coverage Results" MODIFIED="1601343348274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Elementary" />
+    <SUITE FILE_PATH="coverage/CheckIO$Beginning_Zeros.coverage" NAME="Beginning Zeros Coverage Results" MODIFIED="1600996732261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Home" />
+    <SUITE FILE_PATH="coverage/CheckIO$All_Upper_.coverage" NAME="All Upper Ⅰ Coverage Results" MODIFIED="1599120073660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Elementary" />
+    <SUITE FILE_PATH="coverage/CheckIO$Majority.coverage" NAME="Majority Coverage Results" MODIFIED="1601344674216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/O'REILLY" />
+    <SUITE FILE_PATH="coverage/CheckIO$Remove_All_After.coverage" NAME="Remove All After Coverage Results" MODIFIED="1601344857902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/O'REILLY" />
+    <SUITE FILE_PATH="coverage/CheckIO$Chunk.coverage" NAME="Chunk Coverage Results" MODIFIED="1601347325970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/O'REILLY" />
+    <SUITE FILE_PATH="coverage/CheckIO$Replace_First.coverage" NAME="Replace First Coverage Results" MODIFIED="1599122201656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Elementary" />
+    <SUITE FILE_PATH="coverage/CheckIO$Remove_All_Before.coverage" NAME="Remove All Before Coverage Results" MODIFIED="1599119820005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Elementary" />
     <SUITE FILE_PATH="coverage/CheckIO$Date_and_Time_Converter.coverage" NAME="Date and Time Converter Coverage Results" MODIFIED="1598858971336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Home" />
   </component>
 </project>
