@@ -8,7 +8,7 @@ def is_stressful(str1):
     str1 = str3
     buer2 = 1
     for x in str1:
-        if ord('a')<= ord(x) <= ord('z'):
+        if ord('a') <= ord(x) <= ord('z'):
             buer2 = buer2 * 0
     if buer2 == 1:
         return True
